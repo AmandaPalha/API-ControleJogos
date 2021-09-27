@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Controllers\\V1",
+    "\\Entities",
+    "\\Exceptions",
+    "\\ImputModel",
+    "\\Properties",
+    "\\Repositories",
+    "\\Services",
+    "\\ViewModel"
+  ],
+  "SelectedNode": "\\Repositories\\JogoRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
